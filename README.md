@@ -4,9 +4,8 @@
 # Criação e gerenciamento de branches
 
 # Commits semânticos e bem descritos
-
+#
 # Sincronização com repositórios remotos (push/pull)
-# 
 
 # Resolução de merge conflicts
 
