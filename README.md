@@ -14,3 +14,5 @@
 # Este repositório serve como ambiente de prática para consolidar o entendimento dos fluxos de desenvolvimento versionado, preparando para projetos mais complexos no futuro.
 
 # Data de entrega: 09/09/2025
+
+# final
